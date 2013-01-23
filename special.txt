@@ -1,0 +1,33 @@
+convert bstj10-4-iii-000.jpg -rotate 90 -crop 650x1100+400+300
+convert bstj10-4-iii-001.jpg -rotate 90 -crop 650x1100+400+300
+convert bstj10-4-iii-002.jpg -rotate 90 -crop 750x1100+300+200
+convert bstj10-4-iii-003.jpg -rotate 90 -crop 900x1300+250+200
+convert bstj10-4-iii-004.jpg -rotate 90 -crop 900x1300+250+200
+convert bstj10-4-iii-005.jpg -rotate 90 -crop 900x1300+250+160
+convert bstj10-4-iii-006.jpg -rotate 90 -crop 1200x1500+200+100
+
+convert bstj11-3-1-000.jpg -rotate 90 -crop 780x1400+240+440
+convert bstj11-3-1-002.jpg -rotate 88 -crop 900x1500+970+0 
+convert bstj11-3-1-004.jpg -rotate 89 -crop 950x1550+900-50
+convert bstj11-3-1-006.jpg -rotate 89 -crop 950x1550+940-50
+convert bstj11-3-1-008.jpg -rotate 89 -crop 950x1550+940-20
+convert bstj11-3-1-010.jpg -rotate 88 -crop 950x1550+910-30
+convert bstj11-3-1-012.jpg -rotate 88 -crop 950x1550+910-30
+convert bstj11-3-1-014.jpg -rotate 89 -crop 950x1550+900-30
+convert bstj11-3-1-016.jpg -rotate 89 -crop 950x1550+900-30
+convert bstj11-3-1-018.jpg -rotate 89 -crop 950x1550+900-30
+convert bstj11-3-1-020.jpg -rotate 88 -crop 950x1550+920-50
+convert bstj11-3-1-022.jpg -rotate 89 -crop 950x1550+920-50
+convert bstj11-3-1-001.jpg -rotate 90 -crop 950x1550+130+350
+convert bstj11-3-1-003.jpg -rotate 90 -crop 950x1550+160+250
+convert bstj11-3-1-005.jpg -rotate 90 -crop 950x1550+130+250 
+convert bstj11-3-1-007.jpg -rotate 90 -crop 950x1550+130+250
+convert bstj11-3-1-009.jpg -rotate 90 -crop 950x1550+150+250 
+convert bstj11-3-1-011.jpg -rotate 90 -crop 950x1550+150+250
+convert bstj11-3-1-013.jpg -rotate 90 -crop 950x1550+170+250
+convert bstj11-3-1-015.jpg -rotate 90 -crop 950x1550+170+250
+convert bstj11-3-1-017.jpg -rotate 90 -crop 950x1550+150+250
+convert bstj11-3-1-019.jpg -rotate 90 -crop 950x1550+150+250 
+convert bstj11-3-1-021.jpg -rotate 90 -crop 950x1550+150+210 
+
+
